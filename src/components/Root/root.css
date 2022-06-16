@@ -1,0 +1,17 @@
+.main {
+  font-family: "Goudy Bookletter 1911", sans-serif;
+  width: 750px;
+  width: clamp(250px, 80vw, 750px);
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5rem;
+  margin-top: clamp(10px, 10vh, 5rem);
+}
+
+.ant-select-item-group {
+    font-size: 1rem;
+    font-weight: 800;
+}
+.ant-select-selection-placeholder {
+    color: #000;
+}
