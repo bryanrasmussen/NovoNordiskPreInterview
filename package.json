@@ -1,0 +1,24 @@
+{
+  "name": "novo_nordisk_multiselect",
+  "version": "1.0.0",
+  "description": "Example MultiSelect for choosing metadata",
+  "scripts": {},
+  "dependencies": {
+    "react": "18.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bryanrasmussen/NovoNordiskPreInterview.git"
+  },
+  "keywords": [
+    "Code",
+    "sample"
+  ],
+  "author": "Bryan Rasmussen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bryanrasmussen/NovoNordiskPreInterview/issues"
+  },
+  "homepage": "https://github.com/bryanrasmussen/NovoNordiskPreInterview#readme",
+  "devDependencies": {}
+}
